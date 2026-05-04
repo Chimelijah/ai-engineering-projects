@@ -12,4 +12,4 @@ Engineered an automated AI agent workflow, troubleshooting logic flaws in calend
 * Documentation of technical workflows for architectural clarity.
 
 ---
-*Detailed write-up available on [Medium](https://medium.com/@elijahchimera01)*
+*Detailed write-up available on [Medium](https://medium.com/@elijahchimera01/building-an-ai-workflow-using-n8n-a6e6a5d007b7)*
