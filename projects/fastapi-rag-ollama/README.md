@@ -12,4 +12,4 @@ Built a zero-cost local RAG API querying TinyLlama via Ollama and storing embedd
 * Documentation of technical workflows for architectural clarity.
 
 ---
-*Detailed write-up available on [Medium](https://medium.com/@elijahchimera01)*
+*Detailed write-up available on [Medium](https://medium.com/@elijahchimera01/building-a-rag-api-with-fast-api-07b8ee6db413)*
